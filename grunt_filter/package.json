@@ -1,0 +1,21 @@
+{
+  "name": "grunt-filter",
+  "version": "1.0.0",
+  "description": "Smart, theme-safe, framework-agnostic table filter with suggest dropdown",
+  "main": "dist/grunt.filter.js",
+  "author": "grunt coder",
+  "license": "MIT",
+  "keywords": [
+    "filter",
+    "table",
+    "search",
+    "dropdown",
+    "suggest",
+    "javascript",
+    "gruntCSS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/grunt-filter"
+  }
+}
