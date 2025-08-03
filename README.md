@@ -19,12 +19,7 @@ A lightweight, no-dependency JS utility for filtering HTML tables — built to b
 
 ---
 
-## 🚀 Quick Start
 
-### 1. Include the script
-
-```html
-<script src="https://cdn.jsdelivr.net/gh/gruntstacker22/grunt-filter@main/dist/grunt.filter.min.js"></script>
 ````
 
 ### 2. Add your filter form
