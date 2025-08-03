@@ -1,6 +1,4 @@
-Here’s a revised and polished version for your `README.md` with some slight copy tightening, formatting tweaks, and added clarity — still in your style but a bit more "readme-pro":
 
----
 
 # 🧠 grunt-filter
 
@@ -58,3 +56,4 @@ Part of the `gruntCSS` ecosystem — plug it in, filter away.
 * ✅ Stable and tested
 * 🎯 Supports classic HTML setups (no framework lock-in)
 * 🔧 More filter types coming soon (multi-select, tag-based, fuzzy...)
+
