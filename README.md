@@ -63,13 +63,11 @@ A lightweight, no-dependency JS utility for filtering HTML tables — built to b
 ## 🔧 Live Demo
 
 * 🧪 **CodePen Demo**: [https://codepen.io/grunt-coder/pen/YPyZLGB](https://codepen.io/grunt-coder/pen/YPyZLGB)
-* 🌐 **GitHub Pages**: Coming soon...
+
 
 ---
 
-## 📦 NPM (Coming Soon)
 
-npm install grunt-filter
 
 
 ## 🪖 License
